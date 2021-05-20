@@ -24,3 +24,5 @@ Já trabalhei em algumas empresas grandes como TOTVS, Accenture, Santander e ago
 <code><img src="https://img.icons8.com/color/20/000000/amazon-web-services.png"/></code>
 <code><img src="https://img.icons8.com/color/20/000000/angularjs.png"/></code>
 <code><img src="https://img.icons8.com/color/20/000000/docker.png"/></code>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorrmatos19)](https://github.com/anuraghazra/github-readme-stats)

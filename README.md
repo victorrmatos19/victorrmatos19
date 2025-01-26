@@ -14,7 +14,7 @@
 <p>Olá, tudo bem? Sou Victor Rodrigues! Apaixonado por tecnologia com 10 anos de experiência no mercado e um entusiasta de arquitetura de software e patterns. Já participei de vários projetos 
 grandes como Criação da Nova Plataforma de Fundos de Investimentos (Santander), Abertura de Conta para PJ (Santander), Financiamento de Veículos para PJ (Itaú), Softwares de gerenciamento (TOTVS), etc.</p>
 
-Já trabalhei em algumas empresas grandes como TOTVS, Accenture, Itaú e agora atuo como Senior Software Engineer no [Santander](https://www.santander.com.br).
+Já trabalhei em algumas empresas grandes como TOTVS, Accenture, Itaú e agora atuo como Staff Software Engineer no [Santander](https://www.santander.com.br).
 
 **Minha Stack atual:**
 
